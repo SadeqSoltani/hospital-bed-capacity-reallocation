@@ -299,9 +299,7 @@ South therefore had **under-budgeted demand**, while North had **unused budgeted
 <img width="842" height="486" alt="monthly_census_trend" src="https://github.com/user-attachments/assets/4763507b-eddb-4ce4-8ef5-6d9e6312457a" />
 
 
-```
-
-The monthly trend shows North remaining relatively stable while South rises sharply beginning in late 2025.
+The monthly trend shows North remaining relatively stable while South rises sharply beginning in late 2025
 
 ---
 
@@ -342,13 +340,13 @@ South 3D's recent capacity pressure appears to be associated with both:
 This measure should **not** be interpreted as formal length of stay because exact admission and discharge timestamps were not available.
 
 
-```markdown
+
 <img width="977" height="486" alt="monthly_unique_patients" src="https://github.com/user-attachments/assets/75a72240-efec-4a33-90d0-95d831539121" />
 
 <img width="977" height="486" alt="bed_days_per_patient" src="https://github.com/user-attachments/assets/d1092046-364c-4086-bce9-02bc6f355021" />
 
 
-```
+
 
 ---
 
@@ -458,13 +456,12 @@ Holt Linear was retained conceptually as a higher-growth sensitivity case rather
 The planning forecast suggests that the existing allocation mismatch is likely to persist.
 
 
-```markdown
+
 <img width="1008" height="470" alt="six_month_forecast" src="https://github.com/user-attachments/assets/9e4704ec-2df7-463f-bcb9-ba02a31a3c0e" />
 
 <img width="1008" height="470" alt="six_month_forecast2" src="https://github.com/user-attachments/assets/dc95ad30-ca28-4b4e-888e-92f90e7e8e73" />
 
 
-```
 
 ---
 
@@ -551,10 +548,7 @@ The capacity and financial KPIs were then recalculated for both units.
 Therefore, **4 beds is the strongest quantitative base-case allocation**.
 
 
-```markdown
 <img width="1664" height="252" alt="transfer_scenarios" src="https://github.com/user-attachments/assets/4266cd7e-e9de-45d6-9efb-c53f493a3d52" />
-
-```
 
 ---
 
@@ -612,10 +606,7 @@ This finding supports **staged implementation** rather than immediately and perm
 
 
 
-```markdown
 <img width="594" height="123" alt="north_sensitivity" src="https://github.com/user-attachments/assets/4e3276d3-f2a6-404a-81eb-b7a0c71c794f" />
-
-```
 
 ---
 
