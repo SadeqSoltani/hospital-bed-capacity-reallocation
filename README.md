@@ -296,7 +296,7 @@ The mismatch was persistent rather than occasional:
 
 South therefore had **under-budgeted demand**, while North had **unused budgeted capacity**.
 
-```markdown
+```
 <img width="842" height="486" alt="monthly_census_trend" src="https://github.com/user-attachments/assets/16f5a00c-a932-423a-a2ff-84d1a9d0d5b3" />
 
 ```
