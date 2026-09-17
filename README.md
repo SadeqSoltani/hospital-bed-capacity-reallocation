@@ -1,6 +1,6 @@
 # Hospital Bed Capacity Reallocation & Forecasting
 
-### Decision Support Case Study | Python • Time-Series Forecasting • Capacity Planning • Scenario Analysis
+### Decision Support Case Study 
 
 This project evaluates whether budgeted hospital-bed capacity should be reallocated between two inpatient units with very different demand patterns.
 
@@ -12,7 +12,6 @@ The analysis combines historical utilization, operational and financial KPIs, de
 
 > **Data note:** The source data used for this case study is simulated and represents a fictitious rehabilitation centre/hospital environment. No real patient data is used in this analysis.
 
-> **Public-repository note:** Before publishing interview materials, confirm that the original case instructions and supplied datasets are permitted to be shared publicly. A safer portfolio setup is to publish the notebook/code and this README while excluding the original case PDF and raw supplied datasets unless permission has been confirmed.
 
 ---
 
@@ -754,7 +753,7 @@ A clean public repository could use the following structure:
 hospital-bed-capacity-analysis/
 │
 ├── README.md
-├── DSAInterview.ipynb
+├── hospital_bed_capacity_reallocation_analysis.ipynb
 │
 ├── images/
 │   ├── monthly_census_trend.png
@@ -765,12 +764,12 @@ hospital-bed-capacity-analysis/
 │   └── north_sensitivity.png
 │
 ├── data/
-│   └── README.md              # Explain that source data is simulated / not redistributed
+│   └── README.md             
 │
 └── requirements.txt
 ```
 
-For a public portfolio repository, consider excluding the original interview instructions and raw supplied datasets unless you have explicit permission to redistribute them.
+
 
 ---
 
@@ -812,14 +811,3 @@ A stronger decision considers the entire system:
 > **Relieve the constrained unit without creating a new bottleneck elsewhere.**
 
 ---
-
-## Final Decision
-
-> **Do not approve the full 10-bed transfer. Use a staged 3 → 4 bed reallocation, monitor both units, and broaden the hospital-wide capacity review if South 3D demand continues to rise.**
-
----
-
-## Author
-
-**Sadeq Soltani**  
-Data Analytics • Business Intelligence • Decision Support • Python • SQL • Power BI
